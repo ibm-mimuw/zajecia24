@@ -9,4 +9,4 @@ def znajdz(s, p):
 
 print(znajdz("ababaabaababaabaaabaabaa", "abaaba"))
 
-# ABCDEF
+# 12345
